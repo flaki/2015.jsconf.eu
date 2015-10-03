@@ -20,11 +20,11 @@ Twitter: [@slsoftworks](http://twitter.com/slsoftworks)
 Email: [flaki@mozilla.hu](mailto:flaki@flaki.hu)  
 Telefon: +36204741705
 
-## The Quick Version
+## A rövid változat
 
-JSConf EU is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference *without a refund* at the discretion of the conference organizers.
+A Magyarországi Web Konferencia határozott célja hogy zaklatásmentes konfrenciaélményt biztosítson minden látogatónak, nemre, szexuális orientációra, fogyatékra, megjelenésre, testfelépítésre, rasszra, vallásra való tekintet nélkül egyaránt. A konferencia látogatóinak bárminemű zaklatása nem tolerált tevékenységnek minősül, ide sorolva a szexuális töltetű megjegyzéseket és megnyilvánulásokat is. Ezen megnyilvánulások semelyike sem helyénvaló vagy tolerált a konferencia keretei között, értve ezalatt a konferencia helyszínét, előadásait, workshopokat, záróeseményeket, Twitter-t és egyéb online felületeket. A szabályokat megszegő résztvevőket a szervezőknek (mindenféle ellentételezés nélkül) jogában áll kizárni a további résztvételből és eltávolítani a helyszínről.
 
-## The Less Quick Version
+## A valamivel hosszabb változat
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
