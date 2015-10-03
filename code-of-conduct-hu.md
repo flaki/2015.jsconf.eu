@@ -1,22 +1,24 @@
 ---
   layout: simple-page
-  title: Code of Conduct - JSConf EU 2015
-  title-short: Code of Conduct
+  title: Magatartási Szabályzat (CoC) - Magyarországi Web Konferencia
+  title-short: Magatartási Szabályzat (CoC)
 ---
 
+## Magatartási Szabályzat (Code of Conduct)
+[click here for an English version of the Code of Conduct](code-of-conduct.html)
 
 
 <div class="intro-p">
-  <p>All attendees, speakers, sponsors and volunteers at JSConf EU are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting coorporation from all participants to help ensuring a safe environment for everybody.</p>
+  <p>A Magyarországi Web Konferencia minden látogatójától, előadójától, támogatójától és önkéntesétől elvárt az alábbi magatartási szabályok kötelező érvényű betartása. A szervezők az esemény teljes időtartama alatt minden tőlük telhetőt megtesznek ezen magatartási szabályok lehető legszigorúbb betartásáért. Minden látogatótól elvárt a teljeskörű együttműködés a szabályok betartása érdekében, így biztosítva a biztonságos, inklúzív környezetet minden résztvevő számára.</p>
 
 </div>
 
-## Need Help? Contact Tiffany
+## Segítségre van szükséged? Keresd Flakit
 
-Tiffany Conroy
-Twitter: [@theophani](http://twitter.com/theophani)
-Email: [tiffany@jsconf.eu](mailto:tiffany@jsconf.eu)
-Phone(de): +4917632578373
+Szmozsánszky István "Flaki"  
+Twitter: [@slsoftworks](http://twitter.com/slsoftworks)  
+Email: [flaki@mozilla.hu](mailto:flaki@flaki.hu)  
+Telefon: +36204741705
 
 ## The Quick Version
 
