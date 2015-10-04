@@ -26,19 +26,18 @@ A Magyarországi Web Konferencia határozott célja hogy zaklatásmentes konfren
 
 ## A valamivel hosszabb változat
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+A zaklatás alatt értendőek a nemre, szexuális beállítottságra, fogyatékra, megjelenésre, testfelépítésre, rasszra, vallásra tett bántó megjegyzések, a nyilvánosan megjelenített szexuális töltetű ábrázolások, a szándékos megfélemlítés, követés, kéretlen fotók és videofelvételek továbbítása, előadások és egyéb események folyamatos megzavarása, nem odaillő fizikai kontaktus és kéretlen szexuális közeledés.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+A zaklató magatartást folytató résztvevőktől elvárt annak felszólítás utáni azonnali beszüntetése.
 
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Az itt feltüntetett szabályok mindegyike a támogatókra egyaránt, kivétel nélkül vonatkozik. Kiemelten igaz ez szexuálizált tartalmú képek és egyéb anyagok megjelenítésére valamint ilyen tevékenységek folytatására. A kiállítói standjainál dolgozók (ide sorolva az önkénteseket is) nem viselhetnek szexuális töltetű ruházatot, egyenruhát vagy jelmezt, sem pedig másegyéb módon sem hozhatnak létre szexualizált környezetet.
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+Amennyiben egy részvevő a konfrencia területén  a szervezőknek jogában áll saját belátásuk szerint kezelni, ide sorolva egyebek közt a résztvevő szóbeli figyelmeztetését és a konferencia helyszínéről való azonnali, térítés nélküli kizárását és eltávolítását.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by a black conference shirt with a pink or black square JSConf EU logo.
+Amennyiben zaklatnak, vagy más látogatókkal kapcsolatban zaklatásra leszel figyelmes, illetve bármely másegyéb problémával keresd bizalommal minél hamarabb a konferencia szervezőit. A szervezőket fehér, a konferencia logójával nyomott pólójukról ismered fel.
 
-In case you can’t find a staff member, Tiffany Conroy is always there for you: [@theophani](http://twitter.com/theophani), [tiffany@jsconf.eu](mailto:tiffany@jsconf.eu), +4917632578373.
+Amennyiben nem találsz szervezőt, Szmozsánszky István (Flaki) készséggel áll rendelkezésedre bármikor: [@slsoftworks](http://twitter.com/slsoftworks), [flaki@mozilla.hu](mailto:flaki@mozilla.hu), +36204741705.
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+A konferencia szervezői örömmel segítenek felvenni a kapcsolatot a hotel/helyszín biztonsági szolgálatával és helyi rendfenntartó erőkkel, nyújtanak kíséretet és működrek közre bármely más módon a zaklatástól mentes konferencia-élmény biztosítása végett.
 
-We expect participants to follow these rules at conference and workshop venues, conference-related social events and social media.
-
+Minden résztvevőtől elvárjuk, hogy ezen szabályokat a konferencia területén, workshopokon, a konferenciához köthető egyéb szociális eseményeken és online felületeken egyaránt minden körülmények közt, maradéktalanul betartsa.
